@@ -1,0 +1,16 @@
+{
+  "successMessages": {
+    "login": "You have successfully logged in."
+  },
+  "errorMessages": {
+    "emailAlreadyExist": "This email is already associated with another account.",
+    "accountNotFound": "No account found with this email address. Please sign up to continue."
+  },
+  "validationErrorMessages": {
+    "email": "Please provide a valid email address.",
+    "password": "Please provide valid password."
+  },
+  "utilityTexts": {
+    "signupEmailSubject": "OTP to verify your ClubComs account"
+  }
+}
